@@ -1,0 +1,7 @@
+<resources>
+    <!-- App MetaDatas -->
+    <string name="app_name">MinesMap2</string>
+
+    <!-- API Keys -->
+    <string name="APIKEY_MAP">AIzaSyDGrPdZy0YoU-RYF0Fo02iWEEagsPdqEdI</string>
+</resources>
